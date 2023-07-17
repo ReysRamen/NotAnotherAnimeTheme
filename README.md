@@ -18,7 +18,7 @@ NotAnotherAnimeTheme is a highly customizable theme for Discord (with [BetterDis
 2. Download the theme here:
       * [NotAnotherAnimeTheme](https://betterdiscord.app/theme/NotAnotherAnimeTheme)
 3. Place the theme file inside of the BetterDiscord `themes` folder.
-4. Restart the Discord client either by right clicking the tray icon and clicking "Quit Discord" or by pressing Ctrl+R inside the client.
+4. Restart the Discord client either by right clicking te tray icon and clicking "Quit Discord" or by pressing Ctrl+R inside the client.
 5. Go to User Settings in Discord > Themes > Select `NotAnotherAnimeTheme v3.2 by puckzxz#2080`
 
 ### For Powercord
